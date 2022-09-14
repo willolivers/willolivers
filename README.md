@@ -1,6 +1,6 @@
 ## 👋 Olá eu sou o Jessé Willy
 - 🌱 Estudando Front-end
-- 📫 Contate-me pelo https://www.linkedin.com/in/willy-oliveira-2542a0208/
+
 
 <div align="center">
   <a href="https://github.com/willolivers">
@@ -11,13 +11,12 @@
  ## Tecnologias que estou estudando
  
   <div style="display: inline_block"><br>
-  <img align="center" alt="Will-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Will-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Will-JAVA" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="top" alt="Will-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="top" alt="Will-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="top" alt="Will-JAVA" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   </div>
-  
-##
 
+<h2>🗺️Onde me encontrar</h2>
 <div>
   <a href="https://instagram.com/willy_olivers" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:studioswilloliver@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
