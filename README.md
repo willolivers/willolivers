@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @willolivers
-- 👀 I’m interested in HTML, CSS e JS, tambem estudo Java pela faculdade.
-- 🌱 I’m currently learning Java e Web desenvolvimento.
-- 💞️ I’m looking to collaborate on em projetos Web.
-- 📫 How to reach me https://www.linkedin.com/in/willy-oliveira-2542a0208/
+## 👋 Olá eu sou o Jessé Willy
+- 🌱 Estudando Front-end
+- 📫 Contate-me pelo https://www.linkedin.com/in/willy-oliveira-2542a0208/
 
-<!---
-willolivers/willolivers is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <a href="https://github.com/willolivers">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=willolivers&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willolivers&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
