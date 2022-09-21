@@ -1,4 +1,4 @@
-## 👋 Olá eu sou o Jessé Willy
+## 👋 Olá eu sou Will
 - 🌱 Estudando Front-end
 
 
