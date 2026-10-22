@@ -1,5 +1,5 @@
 ## 👋 Olá eu sou Will
-- 🌱 Estudando Front-end
+- 🌱 Estudando Front-end e AI
 
 
 <div style="display: inline-block" align="center">
